@@ -1,7 +1,6 @@
 {
   "require": {
     "php": "^8.2",
-    "tracy/tracy": "^2.6.0",
-    "php-ffmpeg/php-ffmpeg": "^1.2.0"
+    "tracy/tracy": "^2.6.0"
   }
 }
